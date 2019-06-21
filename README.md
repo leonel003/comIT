@@ -1,2 +1,0 @@
-# comIT
-descripción del proyecto
